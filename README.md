@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/devianllert?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%devianllert&screen_name=devianllert)
 
-## I'm a TypeScript Developer!!
+## I'm a Frontend\Game Developer!!
 
 - 🔭 I’m currently working on developing React App with custom SSR
 - 🌱 I’m currently learning C# (Unity)
