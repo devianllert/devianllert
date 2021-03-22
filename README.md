@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on developing React App with custom SSR
 - 🌱 I’m currently learning C# (Unity)
 - 👯 I’m looking to collaborate with other web\game developers
-- 🥅 2020 Goals: Contribute more to Open Source projects and create a game!
+- 🥅 2021 Goals: Contribute more to Open Source projects and create a game!
 - 💬 Ask me about frontend
 - ⚡ Fun fact: I love to play video games (LoL, EFT)
 
