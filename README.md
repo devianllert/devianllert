@@ -2,12 +2,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/devianllert?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%devianllert&screen_name=devianllert)
 
-## I'm a Frontend\Game Developer!!
+## I'm a Frontend Developer!
 
-- 🔭 I’m currently working on developing React App with custom SSR
-- 🌱 I’m currently learning C# (Unity)
-- 👯 I’m looking to collaborate with other web\game developers
-- 🥅 2021 Goals: Contribute more to Open Source projects and create a game!
+- 🔭 I’m currently working on boilerplate for next.js apps
+- 🌱 I’m currently mentoring a group of people
+- 👯 I’m looking to collaborate with other web developers
+- 🥅 2022 Goals: Contribute more to Open Source projects!
 - 💬 Ask me about frontend
 - ⚡ Fun fact: I love to play video games (LoL, EFT)
 
@@ -36,12 +36,5 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="devianllert's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=devianllert&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/devianllert
