@@ -4,7 +4,7 @@
 
 ## I'm a Frontend Developer!
 
-- 🔭 I’m currently working on boilerplate for next.js apps
+- 🔭 I’m currently working on [boilerplate](https://github.com/devianllert/nextplate) for web apps
 - 🌱 I’m currently mentoring a group of people
 - 👯 I’m looking to collaborate with other web developers
 - 🥅 2022 Goals: Contribute more to Open Source projects!
