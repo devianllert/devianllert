@@ -68,10 +68,4 @@
 <br />
 <br />
 
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devianllert&show_icons=true&locale=en&layout=compact" alt="devianllert" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devianllert&show_icons=true&locale=en" alt="devianllert" /></p>
-
 [twitter]: https://twitter.com/devianllert
