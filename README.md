@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate with other web developers
 - 🥅 2022 Goals: Contribute more to Open Source projects!
 - 💬 Ask me about frontend
-- 📫 How to reach me **devianllert@gmail.com**
 - ⚡ Fun fact: I love to play video games (LoL, EFT)
 
 ### Connect with me:
