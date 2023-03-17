@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other web developers
 - 🥅 2023 Goals: Contribute more to Open Source projects!
 - 💬 Ask me about frontend
-- ⚡ Fun fact: I love to play video games (LoL, EFT)
+- ⚡ Fun fact: I love to play video games (LoL, Valorant)
 
 ### Connect with me:
 
